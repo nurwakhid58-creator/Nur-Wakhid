@@ -1,0 +1,6 @@
+{
+  "name": "Asesmen Interaktif TKA Matematika Kelas 7 - Bilangan Bulat",
+  "description": "Media Asesmen Interaktif Model TKA (Tes Kemampuan Akademik) Asesmen Tengah Semester Ganjil Matematika Kelas 7 SMP Negeri 2 Karangbinangun.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
